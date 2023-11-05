@@ -31,9 +31,11 @@ img {
   font-size: 20px;
   
 }
-span.idea {
+span {
   font-size: 20px;
   color: brown;
+  display: block;
+  border: 3px solid rgb(35, 10, 49);
 
 
 }
